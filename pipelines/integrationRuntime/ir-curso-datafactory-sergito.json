@@ -1,7 +1,0 @@
-{
-	"name": "ir-curso-datafactory-sergito",
-	"properties": {
-		"type": "SelfHosted",
-		"description": "Conexion onpremise local"
-	}
-}
